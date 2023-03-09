@@ -2,7 +2,7 @@
   "name": "learn-release-it",
   "version": "1.2.0",
   "description": "学习使用release-it",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
